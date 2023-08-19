@@ -17,8 +17,10 @@
    </a>
 </p>
 
-<h3 align="center">Olá sou o Edwaine Sona 👋<h3>
+<h1 align="center" size="15">Olá sou o Edwaine Sona 👋<h1>
 <p align="center"> - 🔭 Estou atualmente sou Desenvolvedor Front-end na Hydra Desenvolvimento, Lda</p>
 <p align="center"> - 🌱 Atualmente estou aprendendo Vue JS</p>
 <p align="center"> - 📫 Como chegar até mim: <img src="https://www.svgrepo.com/show/444567/social-facebook.svg" alt="Bootstrap" width="40" height="20"/> <img src="https://www.svgrepo.com/show/444570/social-instagram.svg" alt="Bootstrap" width="40" height="20"/> <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="40" height="20"/></p>
+
+<h5 align="center">@hydradev</h5>
 
